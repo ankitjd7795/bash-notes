@@ -1,9 +1,5 @@
 # Bash Shell Scripting Learning Path
 
-[![License](https://img.shields.io/github/license/hype/bash-notes)](LICENSE)
-[![Repository Size](https://img.shields.io/github/repo-size/hype/bash-notes)]
-[![Last Commit](https://img.shields.io/github/last-commit/hype/bash-notes)]
-
 A comprehensive educational resource for learning Bash Shell Scripting, organized in a structured learning path from introductory concepts to advanced techniques and practical applications.
 
 ## Overview
